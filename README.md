@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kevin-Milli
-- 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence
-- 🌱 I’m currently learning in two different Master and i'm also enrolled in two courses in online platforme
+- 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence, Software development and Software Engineering.
+- 🌱 I have finished two online master in data science
+- Actually more then 1900 hours of formation.
 - 💞️ I’m looking to collaborate on Everything can teach me something new
 - 📫 How to reach me: 1) Email: millikevin2@gmail.com   2) Linkedin: https://www.linkedin.com/in/kevin-milli-b97a88190/
 
