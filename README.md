@@ -3,7 +3,9 @@
 - 🌱 I have finished two online master in data science
 - Actually more then 1900 hours of formation.
 - 💞️ I’m looking to collaborate on Everything can teach me something new
-- 📫 How to reach me: 1) Email: millikevin2@gmail.com   2) Linkedin: https://www.linkedin.com/in/kevin-milli-b97a88190/
+- 📫 How to reach me: 
+1) Email: millikevin2@gmail.com   
+2) Linkedin: https://www.linkedin.com/in/kevin-milli-b97a88190/
 
 <!---
 The larger the universe appears, the greater the constraint to be applied.     
