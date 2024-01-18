@@ -7,6 +7,7 @@
 - 📫 How to reach me: 
 1) Email: millikevin2@gmail.com   
 2) Linkedin: https://www.linkedin.com/in/kevin-milli-b97a88190/
+3) Portfolio: https://kevin-milli.github.io/KParadox.Dev
 
 <!---
 The larger the universe appears, the greater the constraint to be applied.     
