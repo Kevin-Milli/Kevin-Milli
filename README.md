@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kevin-Milli
+- 👋 Hi, I’m [Kevin-Milli](https://kevin-milli.github.io/KParadox.Dev/)
 - 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence, Software development and Software Engineering.
 - 🌱 I have finished two online master in data science
 - More then 2000 hours of formation.
