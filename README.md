@@ -1,7 +1,7 @@
 ## General Information
 
 - 👋 Hi there, I’m Kevin, a passionate explorer of the digital realm.
-- 👀 My interests span across the fascinating domains of Data Science, Machine Learning, Artificial Intelligence, Software Development, and Software Engineering.
+- 👀 My interests span across the fascinating domains of Data Science, Machine Learning, AI, Data Analysis, Software Development and Engineering.
 - 🌱 I've traversed two online master's programs in Data Science, accumulating over 3000 hours of immersive learning experiences.
 - 🚀 I'm currently focusing my efforts on studying Oracle ecosystem, focuesed on Database.
 - 💡 I’m eager to collaborate on projects that challenge and inspire me, where every collaboration is an opportunity for mutual growth and discovery.
