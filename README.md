@@ -13,5 +13,6 @@
 ![](The larger the universe appears, the greater the constraint to be applied.)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kevin-Milli&icon=0&color=0)](https://visitcount.itsvg.in)
+> [!Note] 
+> The larger the universe appears, the greater the constraint to be applied.
 
