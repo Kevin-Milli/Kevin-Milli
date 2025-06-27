@@ -9,10 +9,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Kevin-Milli&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Milli&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](The larger the universe appears, the greater the constraint to be applied.)
-
----
+### ✍️ My Dev Quote
 > [!Note] 
 > The larger the universe appears, the greater the constraint to be applied.
 
