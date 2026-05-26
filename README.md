@@ -2,7 +2,7 @@
 
 ### Data Engineer in consulenza | AI & App Developer | Tech Mentor
 
-Gestisco e ottimizzo l'infrastruttura dati per grandi realtà aziendali come Intesa Sanpaolo e Verti Assicurazioni. 
+Ho gestito e ottimizzo l'infrastruttura dati per grandi realtà aziendali come Intesa Sanpaolo e Verti Assicurazioni. 
 
 Il mio percorso nel tech è iniziato quattro anni fa, al mio rientro da Londra, quando ho deciso di investire in modo mirato e importante sulla mia formazione. Da un anno e nove mesi lavoro stabilmente sul campo in ambito consulenziale, affiancando l'esperienza sui progetti aziendali allo studio continuo di Python, AI Engineering, Prompt Engineering e sviluppo di applicazioni.
 
